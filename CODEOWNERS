@@ -29,6 +29,10 @@
 # subdirectories.
 # /build/logs/ @doctocat
 /test_folder/another_folder/ @shuyangliUCB
+<<<<<<< HEAD
+=======
+/com.heilaiq.optimization.python/src/main/python/ @shuyangliUCB
+>>>>>>> d6761be (test different things)
 
 # The `docs/*` pattern will match files like
 # `docs/getting-started.md` but not further nested files like
